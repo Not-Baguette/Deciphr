@@ -183,7 +183,7 @@ if __name__ == '__main__':
                                       command=default_seperator)
 
     credit_label = Label(tab2,
-                         text="""Creator: Traumerei\nCredit:\n- :P\n""",
+                         text="""Creator: Baguette\nCredit:\n- CS50 Staff\n""",
                          font=("Arial", 8, "italic"))
 
     on_top_button = Button(tab2,
