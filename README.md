@@ -1,4 +1,14 @@
-# DECIPHR
+# Deciphr
+
+## Preview
+
+
+![image](https://user-images.githubusercontent.com/94969176/206141440-28422a05-816b-4b7b-a841-457a099f3af4.png)
+
+
+![image](https://user-images.githubusercontent.com/94969176/206141506-8d990701-2a52-4b99-a5ba-4aeba2da3e61.png)
+
+
 ## Description
 Deciphr is completely written in Python with Tkinter Module, This app gives offline word
 unscrambler with your own dictionary of words. The app also features changing seperator,
