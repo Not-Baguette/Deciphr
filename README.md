@@ -1,23 +1,23 @@
 # DECIPHR
 ## Description
-	Deciphr is completely written in Python with Tkinter Module, This app gives offline word
+Deciphr is completely written in Python with Tkinter Module, This app gives offline word
 unscrambler with your own dictionary of words. The app also features changing seperator,
 Stay on the top, changing files, and live update as you type.
 
-	It is a lightweight app and can handle large files, tested with 466,000+ index and
+It is a lightweight app and can handle large files, tested with 466,000+ index and
 different seperators. Warning: The bigger the file, the longer will it take to initialize the app
 (10+- Seconds with 466k).
 
-	The app is made out to demonstrate how programming can be used to solve problems that you
+The app is made out to demonstrate how programming can be used to solve problems that you
 usually need to look up online. This app is also faster compared to opening a browser and finding
 a word unscrambler on google. They also tend to have not so minimalistic GUI while this program
 here, focuses on simply giving the answer as soon as possible.
 
-	I specifically made this app to have the most least dependencies to avoid confusion on new
+I specifically made this app to have the most least dependencies to avoid confusion on new
 users that wishes for user friendly experience and while staying as an open source to let people
 have a look on the inner workings of the code.
 
-    This code should not be used for any malicious intentions like cheating on a competition.
+This code should not be used for any malicious intentions like cheating on a competition.
 The developer of this code will not be held responsible for any actions the user done with the
 code/application.
 
