@@ -31,6 +31,8 @@ This code should not be used for any malicious intentions like cheating on a com
 The developer of this code will not be held responsible for any actions the user done with the
 code/application.
 
+## TODO
+- [ ] Migrate to `customtkinter` library for better UI
 
 ## How to run
 Run from source code
